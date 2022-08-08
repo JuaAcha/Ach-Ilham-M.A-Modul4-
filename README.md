@@ -30,3 +30,7 @@ Buat file dalam folder masing-masing sesuai gambar seperti di bawah ini
 
 Pada file `app.blade.php` di dalam folder (layout) kita bisa mengambil **css dan JS di bootstrap** untuk mempermudah kita saat mengoding syntax, untuk bootstrap kalian bisa langsung ke link yang di bawah ini ya.
 [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links)
+
+## Langkah 2.2 
+
+ 
