@@ -209,3 +209,4 @@ Setelah itu cek hasil source codenya di sini `http://127.0.0.1:8000/barang`
 
 ![image](https://user-images.githubusercontent.com/109930502/183368244-6b3e7ee3-ed91-4bde-ac32-14d8ae01eb1e.png)
 
+![20220808_142548](https://user-images.githubusercontent.com/109930502/183368488-5f12b5f7-1cae-47f9-8fd6-a42499835e97.jpg)
