@@ -204,3 +204,7 @@ Selanjutnya hubungkan antara file `app.blade.php` dengan file `home.blade.php` d
 ```
 
 Setelah itu cek hasil source codenya di sini `http://127.0.0.1:8000/barang`
+
+![image](https://user-images.githubusercontent.com/109930502/183367760-b0a26981-781f-4a8d-a12f-091cd97447b5.png)
+
+
